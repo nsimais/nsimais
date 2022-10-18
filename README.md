@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nsimais
-- 👀 I’m interested in learning R more thoroıghly
+- 👀 I’m interested in learning R more thoroughly
 - 🌱 I’m currently learning Google Data Analytics Professionlal Certificate
 - 💞️ I’m looking to collaborate later on when I'm more advanced.
 - 📫 How to reach me ...
